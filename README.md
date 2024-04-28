@@ -11,7 +11,6 @@ The version of Python used is 3.8, and the versions of the Python libraries used
         skopt==0.9.0
         pyDOE==0.3.8
 
-# video
 
 
         
